@@ -20,8 +20,8 @@ Built with **FastAPI**, **ChromaDB**, **Sentence Transformers**, **Mistral LLM**
 ## ⚙️ Setup & Run
 
 ### 1. Clone Repo
-git clone https://github.com/lithish262004/Agentic-AI-Agent-for-market-research.git
-cd Agentic-AI-Agent-for-market-research
+git clone https://github.com/lithish262004/Agentic-AI-Agent-for-market-research.git/
+/cd Agentic-AI-Agent-for-market-research
 
 ### 2. Install Requirements:
 python -m venv venv
